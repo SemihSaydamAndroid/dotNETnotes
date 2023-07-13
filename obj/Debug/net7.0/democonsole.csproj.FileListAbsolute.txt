@@ -1,0 +1,15 @@
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/bin/Debug/net7.0/democonsole
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/bin/Debug/net7.0/democonsole.deps.json
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/bin/Debug/net7.0/democonsole.runtimeconfig.json
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/bin/Debug/net7.0/democonsole.dll
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/bin/Debug/net7.0/democonsole.pdb
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.csproj.AssemblyReference.cache
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.AssemblyInfoInputs.cache
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.AssemblyInfo.cs
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.csproj.CoreCompileInputs.cache
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.dll
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/refint/democonsole.dll
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.pdb
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/democonsole.genruntimeconfig.cache
+/Users/semihsaydam/Desktop/Masaüstü/Project/Unity-OnlyCodingNoNote/CsharpLearning/democonsole/obj/Debug/net7.0/ref/democonsole.dll
